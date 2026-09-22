@@ -18,7 +18,6 @@ return array(
 		array( 'Emil är hur grym som helst, väldigt snabb på att få saker gjort. Hörde av mig och det tog bara 1 vecka så var han redan där och jordade hela min lägenhet och bytte proppskåp och eluttag i samband. Rekommenderar absolut alla att anlita honom!', 'Ali A', 'för 3 år sedan' ),
 		array( 'Installerade vårt spabad. Emil var på platsen 1 timma före kranen kom och lyfte det på plats. Kunde bada samma kväll, outstandig service från Emils sida. Kommer att anlita honom till 100% i fortsättningen. Rekomenderas!', 'Anders Ekelund', 'för 5 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );

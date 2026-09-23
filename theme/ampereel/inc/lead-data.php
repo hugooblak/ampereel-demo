@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Ampére El AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '070-316 11 50',
 	'telefon_tel'    => '+46703161150',
 	'ort'            => 'Halmstad',
